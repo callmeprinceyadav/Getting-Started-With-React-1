@@ -1,5 +1,5 @@
-What is React?
-Ans - React is a javascript library for builiding user interface.
+1. What is React?
+# Ans - React is a javascript library for builiding user interface.
 
 
 2. Who made React?
