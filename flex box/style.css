@@ -1,0 +1,50 @@
+.check{
+    border: 2px solid black !important;
+    Display: Flex;
+    width: 100%;
+    height: 150px;
+    justify-content: space-around;
+    background-color: rgb(233, 208, 190);
+}
+
+.check > :nth-child(){
+    font-size: 75px;    
+}
+
+.second{
+    width: 50%;
+    /* border: 2px solid black; */
+    height: 75%;
+    margin: auto;
+    display: flex;
+}
+
+.Red{
+    border:  2px solid black !important;
+    width: 20%;
+    background-color: red;
+    height: 100%;
+    margin: auto;
+
+}
+.Voilet{
+    border:  2px solid black !important;
+    width: 20%;
+    background-color: rgb(111, 20, 153);
+    height: 100%;
+    margin: auto;
+}
+.yellow{
+    border:  2px solid black !important;
+    width: 20%;
+    background-color: yellow;
+    height: 100%;
+    margin: auto;
+}
+.Green{
+    border:  2px solid black    !important;
+    width: 20%;
+    background-color: green;
+    height: 100%;
+    margin: auto;
+}
