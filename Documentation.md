@@ -27,29 +27,31 @@
           . prop-types
           . react-router-dom
           . axios
-
+##
 
 7. How do you add react to a web application?
 ## Ans = 
 Step 1: Add a DOM Container to the HTML. First, open the HTML page you want to edit. ...
 Step 2: Add the Script Tags. Next, add three <script> tags to the HTML page right before the closing </body> tag: ...
 Step 3: Create a React Component. Create a file called like_button.js next to your HTML page
-
+##
 
 8. What is React.createElement?
 ## Ans = React.createElement is a function that lets you create a React element. It serves as an alternative to writing JSX.The main use of React.createElement is the Creation of a React component. It is the JavaScript format for creating react components. Also, the JSX react component when transpired invokes this only method for creating the component.
 Here is the syntax for React.createElement:
                createElement(type, props, ...children) 
+##
 
 9. What are the three properties that createElement accept?
 ## Ans = createElement Accept Following Properity :-
     1. Type
     2. Properties
     3. Children
-
+##
 
 10. What is the meaning of render and root?
 ## Ans = 
 Render :- React renders HTML to the web page by using a function called render(). The purpose of the function is to display the       specified HTML code inside the specified HTML element. In the render() method, we can read props and state and return our JSX code to the root component of our app.
 
 Root :- In React, the root element refers to the top-level element that is the parent of all other components in your application. It is typically represented as a DOM node within the public/index. html file that serves as the entry point for your React app.
+##
